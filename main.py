@@ -12,3 +12,6 @@ print('GOAT')
 
 def func():
     print('lalala')
+
+
+print('cherry')
