@@ -1,13 +1,3 @@
-print('bla bla')
-
-login = input('Enter login: ')
-password = input('Enter password: ')
-
-if login == 'abc' and password == '123':
-    print('Success')
-
-
-print('Test')
-
-print('hi')
+name = input('Enter name')
+print(name)
 
