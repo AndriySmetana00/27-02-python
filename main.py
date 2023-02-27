@@ -9,3 +9,6 @@ while True:
     i += 1
 
 print('GOAT')
+
+def func():
+    print('lalala')
