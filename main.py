@@ -19,4 +19,4 @@ while True:
 print('GOAT')
 
 
-print('Check Cherry')
+print('Check Cherry !!!')
