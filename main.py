@@ -5,3 +5,5 @@ password = input('Enter password: ')
 
 if login == 'abc' and password == '123':
     print('Success')
+
+print('hi')
