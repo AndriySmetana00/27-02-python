@@ -1,5 +1,13 @@
-name = input('Enter name')
+name = input('Enter name: ')
 print(name)
+
+surname = input("Enter surname: ")
+print(surname)
+
+age = input()
+print(age)
+
+
 
 i = 0
 while True:
@@ -10,5 +18,5 @@ while True:
 
 print('GOAT')
 
-def func():
-    print('lalala')
+
+print('Check Cherry')
